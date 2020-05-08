@@ -3,5 +3,5 @@
 cmake_minimum_required(VERSION 3.5)
 
 include($ENV{IDF_PATH}/tools/cmake/project.cmake)
-set (EXTRA_COMPONENT_DIRS "path/to/esp-azure/port")
+set (EXTRA_COMPONENT_DIRS "c:/Arun/esp/esp-azure/port")
 project(new_project)

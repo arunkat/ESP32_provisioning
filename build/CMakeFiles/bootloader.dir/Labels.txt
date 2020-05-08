@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Arun/esp/ESP_Rel/Device_c/build/CMakeFiles/bootloader
+C:/Arun/esp/ESP_Rel/Device_c/build/CMakeFiles/bootloader.rule
+C:/Arun/esp/ESP_Rel/Device_c/build/CMakeFiles/bootloader-complete.rule
+C:/Arun/esp/ESP_Rel/Device_c/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Arun/esp/ESP_Rel/Device_c/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Arun/esp/ESP_Rel/Device_c/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Arun/esp/ESP_Rel/Device_c/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+C:/Arun/esp/ESP_Rel/Device_c/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Arun/esp/ESP_Rel/Device_c/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Arun/esp/ESP_Rel/Device_c/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
